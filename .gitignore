@@ -1,0 +1,27 @@
+# Compiled class files
+*.class
+
+# Build directories
+target/
+out/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+.project
+.classpath
+.settings/
+
+# Maven
+*.jar
+*.war
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
